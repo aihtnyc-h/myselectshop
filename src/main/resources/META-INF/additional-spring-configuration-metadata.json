@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "runtimeOnly",
+      "type": "java.lang.String",
+      "description": "Description for runtimeOnly."
+  }
+] }
